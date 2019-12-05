@@ -1,0 +1,1 @@
+# LeetCode_14--Longest-Common-Prefix
